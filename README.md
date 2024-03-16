@@ -8,9 +8,9 @@ Welcome to the Movie Listing Page GitHub repository! This project is a modern we
 
 ## Screenshots
 
-![App Screenshot](src\screenshot\Screenshot_1.png)
+![App Screenshot](https://github.com/chiraggulati16/movie-website/blob/main/public/screenshot/Screenshot_1.png)
 
-![App Screenshot](src\screenshot\Screenshot_2.png)
+![App Screenshot](https://github.com/chiraggulati16/movie-website/blob/main/public/screenshot/Screenshot_2.png)
 
 
 ## Installation
